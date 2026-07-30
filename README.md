@@ -112,7 +112,7 @@ Building real-world projects while exploring Java, Backend Development, and Syst
 🧠 Data Structures & Algorithms
 ⚙️ Backend Development
 🗄 SQL
-🔥 Firebase
+🔥 Supabase
 ⚡ REST APIs
 🐳 Docker
 🏗 System Design
@@ -124,29 +124,12 @@ Building real-world projects while exploring Java, Backend Development, and Syst
 # 🎯 2026 Goals
 
 - ✅ Build 10+ Quality Projects
-- 📚 Master DSA in Java
-- 🌐 Become a Backend Developer
-- 🚀 Contribute to Open Source
-- ⚡ Learn Docker & CI/CD
+- 📚 Master DSA in Java and Python😅
+- 🌐 Become a Leader
 - 📈 Maintain Daily GitHub Activity
 
 ---
 
-# 📅 Coding Journey
-
-```text
-2026
-
-🌱 Started contributing consistently
-
-├── Built Curated By Banjaras
-├── Built Invoice Generator Engine
-├── Built Reviews and More
-├── Built Subnet Calculator
-├── Learning Java
-├── Learning Backend
-└── More exciting projects coming...
-```
 
 ---
 
