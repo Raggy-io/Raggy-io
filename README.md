@@ -1,113 +1,181 @@
 <h1 align="center">Hi 👋, I'm Raghvendra Singh</h1>
 
 <h3 align="center">
-Electrical & Computer Science Engineering Student • Builder • Problem Solver
+Electrical & Computer Science Engineering Student • Backend Enthusiast • Builder
 </h3>
+
+<p align="center">
+Building real-world projects while exploring Java, Backend Development, and System Design.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Third Year B.Tech (Electrical + Computer Science)
-- 💻 Passionate about Backend Development & DSA
-- ⚡ Exploring System Design and Web Development
-- 🤖 Interested in Automation & Embedded Systems
-- 🌱 Currently learning
-  - Java
-  - Data Structures & Algorithms
-  - Backend Development
-  - SQL
-  - Git & GitHub
-- 🚀 Building real-world projects instead of tutorial projects
-- 🎯 Goal: Become a Software Engineer who builds scalable products
+- 🎓 Third Year B.Tech in Electrical & Computer Science Engineering
+- 💻 Passionate about Java, Backend Development & DSA
+- 🌱 Currently learning Java, SQL, Backend Development & System Design
+- ⚡ Interested in building scalable and useful software
+- 🚀 I enjoy creating products that solve real-world problems
+- 📍 Based in India
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### Backend (Learning)
+### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
 ### Database
 
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Raggy-io&theme=tokyonight&show_icons=true&count_private=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raggy-io&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raggy-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raggy-io&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raggy-io&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Raggy-io&theme=tokyonight&margin-w=10&margin-h=10)
+</p>
 
 ---
 
-## 🚀 Current Projects
+# 🔥 GitHub Streak
 
-- 🌐 Curated By Banjaras (E-commerce Platform)
-- 📄 Invoice Generator Engine
-- 🌍 Reviews and More
-- 📡 Subnet Calculator
-- ⚙️ Exploring Backend Development
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Raggy-io&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📚 Currently Exploring
+# 📈 Contribution Activity
+
+[![Raghvendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raggy-io&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Raggy-io)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌐 Curated By Banjaras | Full-stack e-commerce platform |
+| 📄 Invoice Generator Engine | Invoice generation module |
+| 🌍 Reviews and More | Customer review platform |
+| 🌐 Subnet Calculator | Networking utility built in Python |
+
+---
+
+# 📚 Currently Exploring
 
 ```text
-✓ Java
-✓ DSA
-✓ Backend APIs
-✓ SQL
-✓ Firebase
-✓ GitHub Actions
-✓ Docker (Next)
-✓ System Design
+☕ Java
+🧠 Data Structures & Algorithms
+⚙️ Backend Development
+🗄 SQL
+🔥 Firebase
+⚡ REST APIs
+🐳 Docker
+🏗 System Design
+☁️ Deployment
 ```
 
 ---
 
-## 💡 Fun Fact
+# 🎯 2026 Goals
 
-> I enjoy building products that solve real problems more than solving theoretical ones.
+- ✅ Build 10+ Quality Projects
+- 📚 Master DSA in Java
+- 🌐 Become a Backend Developer
+- 🚀 Contribute to Open Source
+- ⚡ Learn Docker & CI/CD
+- 📈 Maintain Daily GitHub Activity
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Raggy-io&style=for-the-badge)
+# 📅 Coding Journey
+
+```text
+2026
+
+🌱 Started contributing consistently
+
+├── Built Curated By Banjaras
+├── Built Invoice Generator Engine
+├── Built Reviews and More
+├── Built Subnet Calculator
+├── Learning Java
+├── Learning Backend
+└── More exciting projects coming...
+```
+
+---
+
+# 💭 Random Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+
+![](https://komarev.com/ghpvc/?username=Raggy-io&style=for-the-badge&color=blueviolet)
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy building products that solve real-world problems more than solving theoretical ones.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
