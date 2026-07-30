@@ -1,21 +1,113 @@
-# 💫 About Me:
-🔭 I’m currently working on: building projects around Electrical + CS (automation, embedded systems, and web tools)<br><br>👯 I’m looking to collaborate on: practical engineering projects, startup ideas, or real-world problem solving tools<br><br>🤝 I’m looking for help with: advanced system design, scaling projects, and industry best practices<br><br>🌱 I’m currently learning: data structures, backend development, and industrial automation concepts<br><br>💬 Ask me about: electrical engineering basics, project building, or turning ideas into working prototypes<br><br>⚡ Fun fact: I prefer making real usable things over theoretical projects<br>
+<h1 align="center">Hi 👋, I'm Raghvendra Singh</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raghvendra Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghvendrasingh99991@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raggy-io&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Raggy-io&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raggy-io&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h3 align="center">
+Electrical & Computer Science Engineering Student • Builder • Problem Solver
+</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Raggy-io&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Third Year B.Tech (Electrical + Computer Science)
+- 💻 Passionate about Backend Development & DSA
+- ⚡ Exploring System Design and Web Development
+- 🤖 Interested in Automation & Embedded Systems
+- 🌱 Currently learning
+  - Java
+  - Data Structures & Algorithms
+  - Backend Development
+  - SQL
+  - Git & GitHub
+- 🚀 Building real-world projects instead of tutorial projects
+- 🎯 Goal: Become a Software Engineer who builds scalable products
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+### Backend (Learning)
+
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database
+
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Raggy-io&theme=tokyonight&show_icons=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Raggy-io&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raggy-io&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Raggy-io&theme=tokyonight&margin-w=10&margin-h=10)
+
+---
+
+## 🚀 Current Projects
+
+- 🌐 Curated By Banjaras (E-commerce Platform)
+- 📄 Invoice Generator Engine
+- 🌍 Reviews and More
+- 📡 Subnet Calculator
+- ⚙️ Exploring Backend Development
+
+---
+
+## 📚 Currently Exploring
+
+```text
+✓ Java
+✓ DSA
+✓ Backend APIs
+✓ SQL
+✓ Firebase
+✓ GitHub Actions
+✓ Docker (Next)
+✓ System Design
+```
+
+---
+
+## 💡 Fun Fact
+
+> I enjoy building products that solve real problems more than solving theoretical ones.
+
+---
+
+![](https://komarev.com/ghpvc/?username=Raggy-io&style=for-the-badge)
